@@ -1,0 +1,16 @@
+# node_modules faylini e'tibordan chiqar
+node_modules/
+
+# .env fayl (maxfiy ma'lumotlar)
+.env
+
+# build yoki dist papkalar
+build/
+dist/
+
+# log fayllar
+*.log
+
+# OS fayllar (Mac, Windows)
+.DS_Store
+Thumbs.db
